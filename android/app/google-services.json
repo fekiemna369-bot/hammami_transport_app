@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267149542914",
+    "project_id": "hammami-transport",
+    "storage_bucket": "hammami-transport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267149542914:android:93e108a3d5900e0b52c91b",
+        "android_client_info": {
+          "package_name": "com.example.hammami_transport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0khTmYldfzy4jG83nR46YXE7NdMHNJEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
